@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel F. Retamal</h1>
 <h3 align="center">A Computer science and mobile developer student from Chile</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/gMUrkefHcdwAAAAC/seerlight-aesthetic.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/gMUrkefHcdwAAAAC/seerlight-aesthetic.gif">
 
 - 🔭 I’m currently working on **my first mobile proyect**
 
