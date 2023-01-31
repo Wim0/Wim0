@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel F. Retamal</h1>
 <h3 align="center">A Computer science and mobile developer student from Chile</h3>
 
-<img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img align="right" alt="Coding" width="400" src="[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.tenor.com/gMUrkefHcdwAAAAC/seerlight-aesthetic.gif)">
 
 - 🔭 I’m currently working on **my first mobile proyect**
 
