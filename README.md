@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my first mobile proyect**
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 I’m currently learning **mobile development aa**
 
 - 📫 How to reach me **willdmontblanc@gmail.com**
 
