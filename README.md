@@ -1,12 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Daniel F. Retamal</h1>
-<h3 align="center">A Computer science and mobile developer student from Chile</h3>
+<h3 align="center">A Computer science and web/mobile developer student from Chile</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/gMUrkefHcdwAAAAC/seerlight-aesthetic.gif">
 
-- 🔭 I’m currently working on **my first mobile proyect**
+- 🔭 I’m currently working on **a web platform for my university**
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **willdmontblanc@gmail.com**
 
