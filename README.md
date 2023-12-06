@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **willdmontblanc@gmail.com**
+- 📫 How to reach me **dev.danielretamal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
