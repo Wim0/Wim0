@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/gMUrkefHcdwAAAAC/seerlight-aesthetic.gif">
 
-- 🔭 I’m currently working on **a web platform for my university**
+- 🔭 I’m currently working at **Hackmetrix**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Typescript, Vue and Nest.js**
 
 - 📫 How to reach me **dev.danielretamal@gmail.com**
 
